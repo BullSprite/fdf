@@ -1,0 +1,5 @@
+.idea
+CMakeLists.txt
+maps
+objs
+cmake-build-debug
